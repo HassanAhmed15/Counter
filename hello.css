@@ -1,0 +1,35 @@
+body {
+  font-family:Verdana ;
+  font-size: 2em;
+    background-color: rgb(113, 0, 141);
+  }
+  
+  
+#countLabel{
+
+display:block;
+text-align: center;
+font-size: 10em;
+font-family: Verdana;
+
+
+}
+#btnContainer{
+
+  text-align: center;
+
+}
+.buttons{
+padding: 10px 20px;
+font-size: 1.5em;
+color:brown;
+background-color: rgb(235, 156, 100);
+border-radius: 5px;
+cursor: pointer;
+transition: background-color 0.25s;
+
+}
+.buttons:hover{
+background-color: rgb(167, 83, 24);
+
+}
